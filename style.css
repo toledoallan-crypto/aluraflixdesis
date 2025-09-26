@@ -1,10 +1,10 @@
 body{
     color: white;
     background: black;
-    magrin: 0px;
-
-    heard {
-        bonder-botton: solid 2px rgb(42, 122, 228);
+    margin: 0px;
+}
+    header {
+        border-botton: solid 2px rgb(42, 122, 228);
         padding: 20px;
         font-size: 32px;
         color: rgb(42, 122, 228);
@@ -15,7 +15,7 @@ body{
         padding-top: center;
         justify-content: center;
     }
-}
+
 .chamada-texto{
     margin-right: 5%;
 
